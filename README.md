@@ -1,0 +1,4 @@
+-  Hi, I’m @monika566
+-  I’m interested in C++, Python, SQL, Data Structure 
+-  I’m currently learning DJango, web development 
+-  I’m looking to collaborate on projects.
