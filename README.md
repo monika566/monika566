@@ -1,4 +1,4 @@
 -  Hi, I’m @monika566
--  I’m interested in C++, Python, SQL, Data Structure 
--  I’m currently learning DJango, web development 
+-  I’m interested in C++, Python, SQL, Data Structure,HTML,CSS. 
+-  I’m currently learning algoriths and working on more dsa problems. 
 -  I’m looking to collaborate on projects.
