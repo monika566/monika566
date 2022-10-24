@@ -4,13 +4,9 @@
 -  I’m looking to collaborate on projects.
 <h1 align="center">Hi 👋, I'm Monika Choudhary</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monika566&label=Profile%20views&color=0e75b6&style=flat" alt="monika566" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/@monikac0920" target="blank"><img src="https://img.shields.io/twitter/follow/@monikac0920?logo=twitter&style=for-the-badge" alt="@monikac0920" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms.**
 
-- 📫 How to reach me **choudharymonika006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
