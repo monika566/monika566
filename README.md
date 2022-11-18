@@ -1,4 +1,4 @@
--  Hi, I’m @monika566
+-  Hi, I’m Monika
 -  I’m interested in C++, Python, SQL, Data Structure,HTML,CSS. 
 -  I’m currently learning algorithms and working on more DS problems. 
 -  I’m looking to collaborate on projects.
